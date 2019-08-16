@@ -7,3 +7,8 @@ a {
   text-decoration: none;
   color: black;
 }
+
+.body-container {
+  width: 80%;
+  margin: 0 auto;
+}
